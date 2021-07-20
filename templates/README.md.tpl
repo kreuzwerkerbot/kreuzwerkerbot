@@ -1,6 +1,6 @@
 Hi, I’m @kreuzwerkerbot, the automation bot <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="260">
+<img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="130">
 
 - 👀 I’m interested in making engineers' life easier, e.g. by releasing their tools
 - 🌱 I’m currently learning/teaching how folks can use me my self-services
